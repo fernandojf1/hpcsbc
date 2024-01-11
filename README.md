@@ -1,9 +1,9 @@
-------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
     HPCSBC (HPC Storage Benchmark Context)
 A tool to evaluate the performance of storage in secondary memory.
-------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
 
-by Fernando de Almeida Silva
+by Fernando de Almeida Silva<br>
 
 HPCSBC (HPC Storage Benchmark Context) is a tool for evaluating secondary memory storage performance.
  
