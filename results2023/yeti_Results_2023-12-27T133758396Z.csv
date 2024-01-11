@@ -1,0 +1,16 @@
+node; cluster; storage; message; work load and time; result; transfer rate;
+yeti-1;grenoble; /dev/sda1; Timing buffered disk reads; 714 MB in  3.01 seconds ; 237.50 MB/sec;
+yeti-1;grenoble; /dev/sda2; Timing buffered disk reads; 1056 MB in  3.01 seconds ; 351.37 MB/sec;
+yeti-1;grenoble; /dev/sda3; Timing buffered disk reads; 1336 MB in  3.00 seconds ; 445.19 MB/sec;
+yeti-1;grenoble; /dev/sda4; Timing buffered disk reads; 952 MB in  1.98 seconds ; 481.89 MB/sec;
+yeti-1;grenoble; /dev/sda5; Timing buffered disk reads; 1492 MB in  3.00 seconds ; 496.98 MB/sec;
+yeti-3;grenoble; /dev/sda1; Timing buffered disk reads; 1046 MB in  3.00 seconds ; 348.57 MB/sec;
+yeti-3;grenoble; /dev/sda2; Timing buffered disk reads; 1092 MB in  3.00 seconds ; 363.58 MB/sec;
+yeti-3;grenoble; /dev/sda3; Timing buffered disk reads; 1294 MB in  3.00 seconds ; 430.88 MB/sec;
+yeti-3;grenoble; /dev/sda4; Timing buffered disk reads; 952 MB in  2.13 seconds ; 446.20 MB/sec;
+yeti-3;grenoble; /dev/sda5; Timing buffered disk reads; 1350 MB in  3.00 seconds ; 449.48 MB/sec;
+yeti-4;grenoble; /dev/sda1; Timing buffered disk reads; 910 MB in  3.00 seconds ; 303.10 MB/sec;
+yeti-4;grenoble; /dev/sda2; Timing buffered disk reads; 1056 MB in  3.01 seconds ; 351.34 MB/sec;
+yeti-4;grenoble; /dev/sda3; Timing buffered disk reads; 1340 MB in  3.00 seconds ; 446.56 MB/sec;
+yeti-4;grenoble; /dev/sda4; Timing buffered disk reads; 782 MB in  3.01 seconds ; 260.13 MB/sec;
+yeti-4;grenoble; /dev/sda5; Timing buffered disk reads; 1490 MB in  3.00 seconds ; 496.24 MB/sec;

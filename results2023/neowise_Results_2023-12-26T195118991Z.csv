@@ -1,0 +1,11 @@
+node; cluster; storage; message; work load and time; result; transfer rate;
+neowise-10;lyon; /dev/nvme0n1p1; Timing buffered disk reads; 3814 MB in  1.75 seconds ; 2181.51 MB/sec;
+neowise-10;lyon; /dev/nvme0n1p2; Timing buffered disk reads; 7144 MB in  3.00 seconds ; 2381.00 MB/sec;
+neowise-10;lyon; /dev/nvme0n1p3; Timing buffered disk reads; 8184 MB in  3.00 seconds ; 2727.57 MB/sec;
+neowise-10;lyon; /dev/nvme0n1p4; Timing buffered disk reads; 952 MB in  0.37 seconds ; 2575.58 MB/sec;
+neowise-10;lyon; /dev/nvme0n1p5; Timing buffered disk reads; 8146 MB in  3.00 seconds ; 2715.25 MB/sec;
+neowise-1;lyon; /dev/nvme0n1p1; Timing buffered disk reads; 3814 MB in  2.24 seconds ; 1703.21 MB/sec;
+neowise-1;lyon; /dev/nvme0n1p2; Timing buffered disk reads; 7152 MB in  3.00 seconds ; 2383.38 MB/sec;
+neowise-1;lyon; /dev/nvme0n1p3; Timing buffered disk reads; 8232 MB in  3.00 seconds ; 2743.59 MB/sec;
+neowise-1;lyon; /dev/nvme0n1p4; Timing buffered disk reads; 952 MB in  0.36 seconds ; 2610.24 MB/sec;
+neowise-1;lyon; /dev/nvme0n1p5; Timing buffered disk reads; 8224 MB in  3.00 seconds ; 2741.03 MB/sec;

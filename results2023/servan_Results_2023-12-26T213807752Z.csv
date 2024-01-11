@@ -1,0 +1,17 @@
+node; cluster; storage; message; work load and time; result; transfer rate;
+servan-2;grenoble; /dev/nvme0n1p1; Timing buffered disk reads; 3814 MB in  1.82 seconds ; 2095.73 MB/sec;
+servan-2;grenoble; /dev/nvme0n1p2; Timing buffered disk reads; 7676 MB in  3.00 seconds ; 2558.63 MB/sec;
+servan-2;grenoble; /dev/nvme0n1p3; Timing buffered disk reads; 8284 MB in  3.00 seconds ; 2761.27 MB/sec;
+servan-2;grenoble; /dev/nvme0n1p4; Timing buffered disk reads; 952 MB in  0.35 seconds ; 2727.50 MB/sec;
+servan-2;grenoble; /dev/nvme0n1p5; Timing buffered disk reads; 4394 MB in  3.00 seconds ; 1464.37 MB/sec;
+servan-2;grenoble; /dev/nvme1n1p1; Timing buffered disk reads; 4380 MB in  3.00 seconds ; 1459.59 MB/sec;
+servan-2;grenoble; /dev/nvme1n1p2; Timing buffered disk reads; 4396 MB in  3.00 seconds ; 1464.69 MB/sec;
+servan-2;grenoble; /dev/nvme1n1p4; Timing buffered disk reads; 4404 MB in  3.00 seconds ; 1467.64 MB/sec;
+servan-1;grenoble; /dev/nvme0n1p1; Timing buffered disk reads; 3814 MB in  1.59 seconds ; 2394.62 MB/sec;
+servan-1;grenoble; /dev/nvme0n1p2; Timing buffered disk reads; 7978 MB in  3.00 seconds ; 2659.10 MB/sec;
+servan-1;grenoble; /dev/nvme0n1p3; Timing buffered disk reads; 7772 MB in  3.00 seconds ; 2590.38 MB/sec;
+servan-1;grenoble; /dev/nvme0n1p4; Timing buffered disk reads; 952 MB in  0.34 seconds ; 2773.12 MB/sec;
+servan-1;grenoble; /dev/nvme0n1p5; Timing buffered disk reads; 4486 MB in  3.00 seconds ; 1495.15 MB/sec;
+servan-1;grenoble; /dev/nvme1n1p1; Timing buffered disk reads; 8512 MB in  3.00 seconds ; 2836.82 MB/sec;
+servan-1;grenoble; /dev/nvme1n1p2; Timing buffered disk reads; 4442 MB in  3.00 seconds ; 1480.20 MB/sec;
+servan-1;grenoble; /dev/nvme1n1p4; Timing buffered disk reads; 4438 MB in  3.00 seconds ; 1479.13 MB/sec;

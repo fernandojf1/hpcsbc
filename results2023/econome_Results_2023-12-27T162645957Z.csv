@@ -1,0 +1,11 @@
+node; cluster; storage; message; work load and time; result; transfer rate;
+econome-21;nantes; /dev/sda1; Timing buffered disk reads; 394 MB in  3.00 seconds ; 131.20 MB/sec;
+econome-21;nantes; /dev/sda2; Timing buffered disk reads; 414 MB in  3.00 seconds ; 137.79 MB/sec;
+econome-21;nantes; /dev/sda3; Timing buffered disk reads; 412 MB in  3.01 seconds ; 137.10 MB/sec;
+econome-21;nantes; /dev/sda4; Timing buffered disk reads; 414 MB in  3.01 seconds ; 137.50 MB/sec;
+econome-21;nantes; /dev/sda5; Timing buffered disk reads; 414 MB in  3.00 seconds ; 137.96 MB/sec;
+econome-13;nantes; /dev/sda1; Timing buffered disk reads; 416 MB in  3.00 seconds ; 138.63 MB/sec;
+econome-13;nantes; /dev/sda2; Timing buffered disk reads; 410 MB in  3.02 seconds ; 135.92 MB/sec;
+econome-13;nantes; /dev/sda3; Timing buffered disk reads; 402 MB in  3.00 seconds ; 133.92 MB/sec;
+econome-13;nantes; /dev/sda4; Timing buffered disk reads; 410 MB in  3.01 seconds ; 136.36 MB/sec;
+econome-13;nantes; /dev/sda5; Timing buffered disk reads; 428 MB in  3.02 seconds ; 141.90 MB/sec;

@@ -1,0 +1,11 @@
+node; cluster; storage; message; work load and time; result; transfer rate;
+pyxis-3;lyon; /dev/sda1; Timing buffered disk reads; 1566 MB in  3.00 seconds ; 522.00 MB/sec;
+pyxis-3;lyon; /dev/sda2; Timing buffered disk reads; 1562 MB in  3.00 seconds ; 520.24 MB/sec;
+pyxis-3;lyon; /dev/sda3; Timing buffered disk reads; 1574 MB in  3.00 seconds ; 524.51 MB/sec;
+pyxis-3;lyon; /dev/sda4; Timing buffered disk reads; 952 MB in  1.83 seconds ; 521.58 MB/sec;
+pyxis-3;lyon; /dev/sda5; Timing buffered disk reads; 1574 MB in  3.00 seconds ; 524.22 MB/sec;
+pyxis-4;lyon; /dev/sda1; Timing buffered disk reads; 1570 MB in  3.00 seconds ; 523.30 MB/sec;
+pyxis-4;lyon; /dev/sda2; Timing buffered disk reads; 1566 MB in  3.00 seconds ; 521.35 MB/sec;
+pyxis-4;lyon; /dev/sda3; Timing buffered disk reads; 1574 MB in  3.00 seconds ; 524.56 MB/sec;
+pyxis-4;lyon; /dev/sda4; Timing buffered disk reads; 952 MB in  1.82 seconds ; 523.29 MB/sec;
+pyxis-4;lyon; /dev/sda5; Timing buffered disk reads; 1582 MB in  3.00 seconds ; 526.95 MB/sec;

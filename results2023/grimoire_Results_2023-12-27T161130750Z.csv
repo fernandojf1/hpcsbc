@@ -1,0 +1,11 @@
+node; cluster; storage; message; work load and time; result; transfer rate;
+grimoire-3;nancy; /dev/sda1; Timing buffered disk reads; 554 MB in  3.01 seconds ; 184.28 MB/sec;
+grimoire-3;nancy; /dev/sda2; Timing buffered disk reads; 560 MB in  3.00 seconds ; 186.46 MB/sec;
+grimoire-3;nancy; /dev/sda3; Timing buffered disk reads; 552 MB in  3.00 seconds ; 183.95 MB/sec;
+grimoire-3;nancy; /dev/sda4; Timing buffered disk reads; 536 MB in  3.00 seconds ; 178.52 MB/sec;
+grimoire-3;nancy; /dev/sda5; Timing buffered disk reads; 538 MB in  3.01 seconds ; 178.83 MB/sec;
+grimoire-2;nancy; /dev/sda1; Timing buffered disk reads; 612 MB in  3.00 seconds ; 203.97 MB/sec;
+grimoire-2;nancy; /dev/sda2; Timing buffered disk reads; 612 MB in  3.00 seconds ; 203.88 MB/sec;
+grimoire-2;nancy; /dev/sda3; Timing buffered disk reads; 594 MB in  3.01 seconds ; 197.37 MB/sec;
+grimoire-2;nancy; /dev/sda4; Timing buffered disk reads; 586 MB in  3.01 seconds ; 194.86 MB/sec;
+grimoire-2;nancy; /dev/sda5; Timing buffered disk reads; 588 MB in  3.01 seconds ; 195.66 MB/sec;
