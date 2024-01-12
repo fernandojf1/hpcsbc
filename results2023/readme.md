@@ -10,5 +10,5 @@ The tests were carried out on December 26th and 27th, 2023.
 
 The partial results of each experiment were merged into the Results2023.csv file.
 
-The correct title of the second column (Column B) is cluster, if another one appears.
+The correct title of the second column (Column B) is <u><strong>site</strong></u>, if another one appears.
 
